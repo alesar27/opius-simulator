@@ -13,7 +13,8 @@ env/
 
 # Simulation output
 results.npz
-*.png
+/opius/*.png
+/notebooks/*.png
 *.csv
 
 # Editor settings
